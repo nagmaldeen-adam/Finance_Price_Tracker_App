@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "name": "https://github.com/nagmaldeen-adam/Finance_price_Tracker.git",
+            "request": "launch",
+            "url": "https://github.com/nagmaldeen-adam/Finance_price_Tracker.git"
+        }
+    ]
+}
